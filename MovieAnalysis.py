@@ -48,13 +48,10 @@ sc = SparkContext(conf=conf)
 
 spark = SparkSession.builder.getOrCreate()
 
-spark.read.format("csv").load("data/test.txt").toDF("Success").show(20, False)
-
-
-##################🔴🔴🔴🔴🔴🔴 -> DONT TOUCH ABOVE CODE -- TYPE BELOW ####################################
+spark.read.format("csv").load("data/test.txt").toDF("Success").show(20, False
 
 print()
-# Project 1: Movie Ratings Analysis with PySpark
+# Project: Movie Ratings Analysis with PySpark
 
 # movie_ratings_analysis.py
 from pyspark.sql import SparkSession

@@ -1,0 +1,11 @@
+CustomerId,Name,Email,Country
+CUST001,Customer1,customer1@example.com,UK
+CUST002,Customer2,customer2@example.com,USA
+CUST003,Customer3,customer3@example.com,India
+CUST004,Customer4,customer4@example.com,India
+CUST005,Customer5,customer5@example.com,UK
+CUST006,Customer6,customer6@example.com,UK
+CUST007,Customer7,customer7@example.com,Canada
+CUST008,Customer8,customer8@example.com,USA
+CUST009,Customer9,customer9@example.com,Germany
+CUST010,Customer10,customer10@example.com,USA

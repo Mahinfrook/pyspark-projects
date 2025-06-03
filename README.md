@@ -1,4 +1,4 @@
-# 🚀 E-Commerce Orders Data Pipeline with PySpark
+#  E-Commerce Orders Data Pipeline with PySpark
 
 A PySpark-based big data project that simulates a real-world data engineering workflow. This project reads raw e-commerce data, transforms it, and writes aggregated insights to Parquet.
 
